@@ -1,0 +1,52 @@
+C:/Adauto/mariana/csharp-10/Source/bin/Debug/netcoreapp2.2/appsettings.Development.json
+C:/Adauto/mariana/csharp-10/Source/bin/Debug/netcoreapp2.2/appsettings.json
+C:/Adauto/mariana/csharp-10/Source/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+C:/Adauto/mariana/csharp-10/Source/bin/Debug/netcoreapp2.2/Source.deps.json
+C:/Adauto/mariana/csharp-10/Source/bin/Debug/netcoreapp2.2/Source.runtimeconfig.json
+C:/Adauto/mariana/csharp-10/Source/bin/Debug/netcoreapp2.2/Source.runtimeconfig.dev.json
+C:/Adauto/mariana/csharp-10/Source/bin/Debug/netcoreapp2.2/Source.dll
+C:/Adauto/mariana/csharp-10/Source/bin/Debug/netcoreapp2.2/Source.pdb
+C:/Adauto/mariana/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.csprojAssemblyReference.cache
+C:/Adauto/mariana/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.AssemblyInfoInputs.cache
+C:/Adauto/mariana/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.AssemblyInfo.cs
+C:/Adauto/mariana/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.csproj.CoreCompileInputs.cache
+C:/Adauto/mariana/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.RazorAssemblyInfo.cache
+C:/Adauto/mariana/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.RazorAssemblyInfo.cs
+C:/Adauto/mariana/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.RazorTargetAssemblyInfo.cache
+C:/Adauto/mariana/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.dll
+C:/Adauto/mariana/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.pdb
+C:/Adauto/mariana/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.genruntimeconfig.cache
+/home/mariana/codenation/csharp-10/Source/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/home/mariana/codenation/csharp-10/Source/bin/Debug/netcoreapp2.2/appsettings.json
+/home/mariana/codenation/csharp-10/Source/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/home/mariana/codenation/csharp-10/Source/bin/Debug/netcoreapp2.2/Source.deps.json
+/home/mariana/codenation/csharp-10/Source/bin/Debug/netcoreapp2.2/Source.runtimeconfig.json
+/home/mariana/codenation/csharp-10/Source/bin/Debug/netcoreapp2.2/Source.runtimeconfig.dev.json
+/home/mariana/codenation/csharp-10/Source/bin/Debug/netcoreapp2.2/Source.dll
+/home/mariana/codenation/csharp-10/Source/bin/Debug/netcoreapp2.2/Source.pdb
+/home/mariana/codenation/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.csprojAssemblyReference.cache
+/home/mariana/codenation/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.RazorAssemblyInfo.cache
+/home/mariana/codenation/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.RazorAssemblyInfo.cs
+/home/mariana/codenation/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.AssemblyInfoInputs.cache
+/home/mariana/codenation/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.AssemblyInfo.cs
+/home/mariana/codenation/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.RazorTargetAssemblyInfo.cache
+/home/mariana/codenation/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.dll
+/home/mariana/codenation/csharp-10/Source/obj/Debug/netcoreapp2.2/Source.pdb
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\bin\Debug\netcoreapp2.2\Source.deps.json
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\bin\Debug\netcoreapp2.2\Source.runtimeconfig.json
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\bin\Debug\netcoreapp2.2\Source.runtimeconfig.dev.json
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\bin\Debug\netcoreapp2.2\Source.dll
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\bin\Debug\netcoreapp2.2\Source.pdb
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\obj\Debug\netcoreapp2.2\Source.csprojAssemblyReference.cache
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\obj\Debug\netcoreapp2.2\Source.AssemblyInfoInputs.cache
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\obj\Debug\netcoreapp2.2\Source.AssemblyInfo.cs
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\obj\Debug\netcoreapp2.2\Source.csproj.CoreCompileInputs.cache
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\obj\Debug\netcoreapp2.2\Source.RazorAssemblyInfo.cache
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\obj\Debug\netcoreapp2.2\Source.RazorAssemblyInfo.cs
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\obj\Debug\netcoreapp2.2\Source.RazorTargetAssemblyInfo.cache
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\obj\Debug\netcoreapp2.2\Source.dll
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\obj\Debug\netcoreapp2.2\Source.pdb
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source\obj\Debug\netcoreapp2.2\Source.genruntimeconfig.cache

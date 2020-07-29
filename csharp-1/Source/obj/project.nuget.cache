@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XokW8IANoDic1CvT8p61mK0f/rI1kgOImoG6Vyqs0hFCxjBsguyDMK2zF0GDQ3+4jEo+L8rrS5mPUAk9PidgNw==",
+  "success": true,
+  "projectFilePath": "C:\\Adauto\\mariana\\csharp-1\\Source\\Source.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jbarros\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jbarros\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

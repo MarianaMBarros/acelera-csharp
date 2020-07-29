@@ -1,0 +1,8 @@
+/home/mariana/codenation/csharp-2/Source/bin/Debug/netstandard2.0/Source.deps.json
+/home/mariana/codenation/csharp-2/Source/bin/Debug/netstandard2.0/Source.dll
+/home/mariana/codenation/csharp-2/Source/bin/Debug/netstandard2.0/Source.pdb
+/home/mariana/codenation/csharp-2/Source/obj/Debug/netstandard2.0/Source.csprojAssemblyReference.cache
+/home/mariana/codenation/csharp-2/Source/obj/Debug/netstandard2.0/Source.AssemblyInfoInputs.cache
+/home/mariana/codenation/csharp-2/Source/obj/Debug/netstandard2.0/Source.AssemblyInfo.cs
+/home/mariana/codenation/csharp-2/Source/obj/Debug/netstandard2.0/Source.dll
+/home/mariana/codenation/csharp-2/Source/obj/Debug/netstandard2.0/Source.pdb

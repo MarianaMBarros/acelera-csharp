@@ -1,0 +1,1 @@
+@sqlcmd -S "(localdb)\mssqllocaldb" -Q "RESTORE DATABASE Codenation FROM DISK='C:\Windows\System32\cmd.exe\Codenation.bak'"

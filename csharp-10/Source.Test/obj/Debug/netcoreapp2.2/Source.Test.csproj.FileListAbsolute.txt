@@ -1,0 +1,46 @@
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\JUnit.TestLogger.dll
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\TestData\users.json
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.deps.json
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.runtimeconfig.json
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.runtimeconfig.dev.json
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.dll
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.pdb
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.dll
+C:\Adauto\mariana\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.pdb
+C:\Adauto\mariana\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csprojAssemblyReference.cache
+C:\Adauto\mariana\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.AssemblyInfoInputs.cache
+C:\Adauto\mariana\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.AssemblyInfo.cs
+C:\Adauto\mariana\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csproj.CoreCompileInputs.cache
+C:\Adauto\mariana\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csproj.CopyComplete
+C:\Adauto\mariana\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.dll
+C:\Adauto\mariana\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.pdb
+C:\Adauto\mariana\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.genruntimeconfig.cache
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\JUnit.TestLogger.dll
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\TestData\users.json
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.deps.json
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.runtimeconfig.json
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.runtimeconfig.dev.json
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.dll
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.pdb
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.dll
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\bin\Debug\netcoreapp2.2\Source.pdb
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csprojAssemblyReference.cache
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.AssemblyInfoInputs.cache
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.AssemblyInfo.cs
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csproj.CoreCompileInputs.cache
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csproj.CopyComplete
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.dll
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.pdb
+C:\Adauto\mariana\Nova pasta (2)\csharp-10\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.genruntimeconfig.cache
